@@ -1,0 +1,16 @@
+{
+    "name": "dohandeim/maxista",
+    "autoload": {
+        "psr-4": {
+            "Dohandeim\\Maxista\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dohandeim"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
